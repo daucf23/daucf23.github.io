@@ -3,10 +3,6 @@ title: daucf23.github.io
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simple Site for Simple Projects
-about:
-  title: About Me
-  content: >-
-    I'm an engineer with a passion for aviation. In my spare time, I love to learn about different aircraft, study flight patterns, and explore the world of aviation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://daucf23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -14,7 +10,6 @@ github_username:  daucf23
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
