@@ -2,7 +2,6 @@
 title: daucf23 Project Page
 description: >- # this means to ignore newlines until "baseurl:"
   Simple Site for Simple Projects
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://daucf23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  daucf23
 # Build settings
